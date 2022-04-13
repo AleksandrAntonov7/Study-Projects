@@ -33,4 +33,4 @@
 - Темы карточек и темы источников могут соотноситься различным образом.
 
 ## Ссылка на интерактивный дашборд (Tableau):
-[ссылка](https://public.tableau.com/app/profile/aleksandr.antonov/viz/__16496753424850/_)
+[Дашборд](https://public.tableau.com/app/profile/aleksandr.antonov/viz/__16496753424850/_)
