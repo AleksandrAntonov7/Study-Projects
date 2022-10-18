@@ -1,4 +1,4 @@
-# Dashboard for Yandex.Zen
+# [Dashboard for Yandex.Zen](https://public.tableau.com/app/profile/aleksandr.antonov/viz/__16496753424850/_)
 # Описание:
 В целях оптимизации отчетности необходимо построить дашборд для менеджеров по анализу контента.
 
