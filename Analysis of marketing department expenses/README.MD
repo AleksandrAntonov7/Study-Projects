@@ -1,4 +1,4 @@
-# Project_Analysis-of-marketing-department-expenses
+# [Project_Analysis-of-marketing-department-expenses](https://github.com/AleksandrAntonov7/Study-Projects/blob/main/Analysis%20of%20marketing%20department%20expenses/Analysis%20of%20marketing%20department%20expenses.ipynb)
 # Описание:
 Анализ лога сервера с данными о посещениях приложения новыми пользователями, а также анализ статистики рекламных расходов. Цель: изучить, как клиенты пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается и какие факторы отрицательно влияют на привлечение пользователей.
 
